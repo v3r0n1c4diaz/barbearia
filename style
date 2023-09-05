@@ -1,0 +1,13 @@
+body{
+    background: #CCCCCC;
+}
+H1{
+    text-align: center;
+  
+p1 {
+    text-align: center;
+    background:    #CCCCCC;
+}
+em strong{
+    color:    red
+    
