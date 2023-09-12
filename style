@@ -2,12 +2,14 @@ body{
     background: #CCCCCC;
 }
 H1{
-    text-align: center;
-  
+    #banner {
+    }
 p1 {
     text-align: center;
     background:    #CCCCCC;
 }
 em strong{
     color:    red
-    
+  p {
+    text-align: center;
+    background-color: ;
