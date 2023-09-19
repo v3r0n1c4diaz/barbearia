@@ -3,7 +3,7 @@ body{
 }
 H1{
     #banner {
-    }
+    width: 100%;
 p1 {
     text-align: center;
     background:    #CCCCCC;
@@ -13,3 +13,11 @@ em strong{
   p {
     text-align: center;
     background-color: ;
+
+
+
+
+
+
+
+    color: #FF0000;
